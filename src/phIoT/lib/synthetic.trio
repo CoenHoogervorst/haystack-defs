@@ -59,7 +59,7 @@ def: ^pointRef
 doc: See `docHaystack::Synthetics#structure` chapter.
 is: ^ref
 of: ^point
-tagOn: ^sim-point
+tagOn: ^synthetic-point
 --------------------------------------------------------------------------
 
 //model definitions and ref structure
